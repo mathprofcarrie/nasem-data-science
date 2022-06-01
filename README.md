@@ -1,4 +1,6 @@
 # nasem-data-science
+Authors: Anelise Hanson Shrout, Carrie Diaz Eaton, Jude Higdon-Topaz
+Code and data files for paper in submission.
 
 This is a repository to analyze the language of policy reports. The original reports we analyzed with this code are from the National Academies of Science, Engineering, and Medicine. 
 
